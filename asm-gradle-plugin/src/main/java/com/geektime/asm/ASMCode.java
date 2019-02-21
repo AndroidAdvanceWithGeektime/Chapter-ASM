@@ -59,15 +59,30 @@ public class ASMCode {
 
     public static class TraceMethodAdapter extends AdviceAdapter {
 
-        private final String name;
+        private final String methodName;
         private final String className;
 
         protected TraceMethodAdapter(int api, MethodVisitor mv, int access, String name, String desc, String className) {
             super(api, mv, access, name, desc);
             this.className = className;
-            this.name = name;
+            this.methodName = name;
         }
 
+        @Override
+        public void visitMethodInsn(int opcode, String owner, String name, String desc, boolean itf) {
+            super.visitMethodInsn(opcode, owner, name, desc, itf);
+            //需要排查CustomThread自己
+            if (owner.equals("java/lang/Thread") && !className.equals("com/sample/asm/CustomThread")) {
+                mv.visitMethodInsn(opcode, "com/sample/asm/CustomThread", name, desc);
+                Log.e("asmcode", "className:%s, method:%s, name:%s", className, methodName, name);
+            }
+
+            if (owner.equals("android/telephony/TelephonyManager") && name.equals("getDeviceId") && desc.equals("()Ljava/lang/String;")) {
+                Log.e("asmcode", "get imei className:%s, method:%s, name:%s", className, methodName, name);
+            }
+
+
+        }
 
         @Override
         protected void onMethodEnter() {
