@@ -1,0 +1,839 @@
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/tinker-android-lib-1.9.1.aar/d0a4f05c68fe3c9c8b7dddb789b70b5f/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/tinker-android-loader-1.9.1.aar/f3c606e84afc607785e33a79d70f8216/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/38cbbc06dafb6bf045f7ed5c2b5d035c/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/fresco-1.12.1.aar/ce381fcffdfdc209598cf92bcb25e437/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.6/c0df91c5b9c98ebd28eec6764cb3416c195aec20/rxjava-2.2.6.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.70.android/133e74249176e8f5a5cd976bbfa491ac4f8b0c4e/fastjson-1.1.70.android.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f8fd1bd9c8f0fe985be4018e6c87f509/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/core-1.3.4.aar/d62552a9aa07872b7a387ba8eb388558/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/wcdb-android-1.0.8.aar/1334cf76777d1d9d6cd77ba4448aa693/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/mars-core-1.2.2.aar/95fdd08b43b19a4ae5cb2a25df6a535f/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/9fb6511557b6c8080583292154d058a1/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/89c0806e7ee130bd6e11aa2eb1359297/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/79c252017f97df9dcca0d457588649a8/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4b3d04027a037298bafe71410b0a949a/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-ads-16.0.0.aar/5a7914d6f0c2225fa2bd4fd0118df0c6/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/2a10747db5288c6406660817492b7165/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/61e1b245b51801a77f7c43bc53c726d3/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/c11c485c5c1d32f20d67fc76478c6d39/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/28f24d61789b9ca6eea65ae276e0cde2/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/7f5b930851735fab6a496b79f32a2c6a/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-16.0.0.aar/29df15b3d00afeb6ec7a26caa38ba538/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-gass-16.0.0.aar/ffdbfd6a4c18485d1ca3c1b0054b4390/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/42af44526d691a51e36080653d5a1b83/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/b3387df9840d89e87189a36be8438969/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/876066b1d475f92ed482acd25b3ebe48/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/294af985be0eccd9f9a59f1477ea47fd/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/98ca140b137c699c0f020d32da41d85f/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/d253f202a2cfd0f48c023f062c870938/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/7374492aefd5a7e37a9519a0548a214f/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5f7124d8511ff809329cea1f5ffc7007/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/574da4602dce2c8690175120d90ed166/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a0946f0ef55bc739d65a5aa1d139cea/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/drawee-1.12.1.aar/66326456932c213191f7e8f2aa94b114/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.12.1.aar/abf142a951bb364a5f0ae2fc4eea66e8/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.12.1.aar/7d8593cf79dc648de86b6c2716204ff9/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-1.12.1.aar/54eba4028ed591f7ebee581e875c726f/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.12.1.aar/87c48de4fbab613ee9cb1e2ef012d9f5/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/fbcore-1.12.1.aar/ad37f9356def83bf459184cd416456b9/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/81b6cd02518b5114d6bdfc49bb6801c6/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.8.0/a7448551cb3edd61bcf3d1b1136b670e630441cf/disklrucache-4.8.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.8.0/c4c9e79eb2bfeb9059fce55020c6b237402285f6/annotations-4.8.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/tinker-commons/1.9.1/ffe516bb28b4d1c0d02474981a54886b33fec049/tinker-commons-1.9.1.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-16.0.0.aar/8a504a7ef5180c51aed2448d60377cc9/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/aosp-dexutils/1.9.1/6d851b44f45134eca6cbc718a1742d97043a9ba5/aosp-dexutils-1.9.1.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/bsdiff-util/1.9.1/cbaf2513dbbe6857b8b0fbca2c3e2d5a0229f333/bsdiff-util-1.9.1.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/tinker-ziputils/1.9.1/86b2c17f92a9a2fc4d76f92d2b538a1ffb4fd69c/tinker-ziputils-1.9.1.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9dca505e492dbf6aedf42d11f33a3daf/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8630780c779d64cb6d4f11cdb77e149a/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/48ed20d82f2b33e037eeef649a9757f6/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/uc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/efca246f07b97f41a6fb9d190c9a6a5c/jars/classes.jar(**.class)
+-injars /Users/uc/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes(**.class)
+-injars /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/transforms/mergeJavaRes/release/0.jar(!**.class)
+-outjars /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/transforms/proguard/release/0.jar
+
+-libraryjars /Users/uc/Library/Android/sdk/platforms/android-27/android.jar
+-libraryjars /Users/uc/Library/Android/sdk/build-tools/28.0.2/core-lambda-stubs.jar
+-libraryjars /Users/uc/Library/Android/sdk/platforms/android-27/optional/org.apache.http.legacy.jar
+
+-forceprocessing
+-dontshrink
+-printusage /Users/uc/work/Geektime/Chapter22/ReDexSample/build/outputs/mapping/release/usage.txt
+-dontoptimize
+-dontobfuscate
+-printmapping /Users/uc/work/Geektime/Chapter22/ReDexSample/build/outputs/mapping/release/mapping.txt
+-dontusemixedcaseclassnames
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod,SourceFile,LineNumberTable,*Annotation*,*Annotation*
+-verbose
+-dontnote com.android.vending.licensing.ILicensingService,com.google.vending.licensing.ILicensingService,com.google.android.vending.licensing.ILicensingService,android.support.**,androidx.**,org.apache.http.**,android.net.http.**,java.lang.invoke.**,okhttp3.internal.Platform
+-dontwarn android.support.**,androidx.**,android.util.FloatMath,okio.Okio,okio.DeflaterSink,android.security.NetworkSecurityPolicy,android.app.Notification,sun.misc.Unsafe,libcore.io.Memory,com.google.android.apps.common.proguard.UsedBy*,javax.annotation.**,org.checkerframework.**,okio.**,com.squareup.okhttp.**,okhttp3.**,javax.annotation.**,com.android.volley.toolbox.**,com.facebook.infer.**
+-ignorewarnings
+-printconfiguration /Users/uc/work/Geektime/Chapter22/ReDexSample/configuration.txt
+-printseeds /Users/uc/work/Geektime/Chapter22/ReDexSample/build/outputs/mapping/release/seeds.txt
+
+
+
+-keep public class com.google.vending.licensing.ILicensingService
+
+-keep public class com.android.vending.licensing.ILicensingService
+
+-keep public class com.google.android.vending.licensing.ILicensingService
+
+# For native methods, see http://proguard.sourceforge.net/manual/examples.html#native
+-keepclasseswithmembers,allowshrinking class * {
+    native <methods>;
+}
+
+# Keep setters in Views so that animations can still work.
+-keepclassmembers public class * extends android.view.View {
+    void set*(***);
+    *** get*();
+}
+
+# We want to keep methods in Activity that could be used in the XML attribute onClick.
+-keepclassmembers class * extends android.app.Activity {
+    public void *(android.view.View);
+}
+
+# For enumeration classes, see http://proguard.sourceforge.net/manual/examples.html#enumerations
+-keepclassmembers enum  * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers class * extends android.os.Parcelable {
+    public static final ** CREATOR;
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+# Preserve annotated Javascript interface methods.
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface
+    <methods>;
+}
+
+# Understand the @Keep support annotation.
+-keep class android.support.annotation.Keep
+
+-keep class androidx.annotation.Keep
+
+-keep @android.support.annotation.Keep class * {
+    <fields>;
+    <methods>;
+}
+
+-keep @androidx.annotation.Keep class * {
+    <fields>;
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <fields>;
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <fields>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <init>(...);
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <init>(...);
+}
+
+-keep class com.sample.oatmeal {
+    <fields>;
+    <methods>;
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:214
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:206
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:31
+-keep class com.sample.redex.MainActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:24
+-keep class com.sample.redex.SampleApplication {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:201
+-keep class com.squareup.picasso.PicassoProvider {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:47
+-keep class com.tencent.tinker.lib.service.DefaultTinkerResultService {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:39
+-keep class com.tencent.tinker.lib.service.TinkerPatchService {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:43
+-keep class com.tencent.tinker.lib.service.TinkerPatchService$InnerService {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:112
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:142
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:115
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:146
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:118
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:150
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:121
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_03 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:124
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_04 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:127
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_05 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:130
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_06 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:133
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_07 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:136
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_08 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:139
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_09 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:70
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:100
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:73
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:104
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:76
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:108
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:79
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_03 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:82
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_04 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:85
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_05 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:88
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_06 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:91
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_07 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:94
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_08 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:97
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_09 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:154
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:184
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:157
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:188
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:160
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:192
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:163
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_03 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:166
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_04 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:169
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_05 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:172
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_06 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:175
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_07 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:178
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_08 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:181
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_09 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:51
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:61
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:52
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:64
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:53
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:67
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02_T {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:54
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_03 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:55
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_04 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:56
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_05 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:57
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_06 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:58
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_07 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:59
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_08 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/work/Geektime/Chapter22/ReDexSample/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:60
+-keep class com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_09 {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat {
+    <init>(...);
+}
+
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/uc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/5b397c6c5e8016cb7594fa8a6973bec9/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space {
+    <init>(...);
+}
+
+# Keep all native methods, their classes and any classes in their descriptors
+-keepclasseswithmembers,includedescriptorclasses class com.tencent.wcdb.** {
+    native <methods>;
+}
+
+# Keep all exception classes
+-keep class com.tencent.wcdb.**.*Exception
+
+# Keep classes referenced in JNI code
+-keep class com.tencent.wcdb.database.WCDBInitializationProbe {
+    <fields>;
+}
+
+-keep,includedescriptorclasses class com.tencent.wcdb.database.SQLiteCustomFunction {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.tencent.wcdb.database.SQLiteDebug$* {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.tencent.wcdb.database.SQLiteCipherSpec {
+    <fields>;
+}
+
+-keep interface  com.tencent.wcdb.support.Log$* {
+    <fields>;
+    <methods>;
+}
+
+# Keep methods used as callbacks from JNI code
+-keep class com.tencent.wcdb.repair.RepairKit {
+    int onProgress(java.lang.String,int,long);
+}
+
+-keep class com.tencent.wcdb.database.SQLiteConnection {
+    void notifyCheckpoint(java.lang.String,int);
+}
+
+# Ensure that proguard will not strip the handleIntent method.
+-keepclassmembers class com.google.android.gms.gcm.GcmListenerService {
+    public void handleIntent(android.content.Intent);
+}
+
+# b/35135904 Ensure that proguard will not strip the mResultGuardian.
+-keepclassmembers class com.google.android.gms.common.api.internal.BasePendingResult {
+    com.google.android.gms.common.api.internal.BasePendingResult$ReleasableResultGuardian mResultGuardian;
+}
+
+# We keep all fields for every generated proto file as the runtime uses
+# reflection over them that ProGuard cannot detect. Without this keep
+# rule, fields may be removed that would cause runtime failures.
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzbbo {
+    <fields>;
+}
+
+# Keep implemtations of the AdMob mediation adapter interfaces. Adapters for
+# third party ad networks implement these interfaces and are invoked by the
+# AdMob SDK via reflection.
+-keep class * extends com.google.android.gms.ads.mediation.MediationAdapter {
+    public <fields>;
+    public <methods>;
+}
+
+-keep class * extends com.google.ads.mediation.MediationAdapter {
+    public <fields>;
+    public <methods>;
+}
+
+-keep class * extends com.google.android.gms.ads.mediation.customevent.CustomEvent {
+    public <fields>;
+    public <methods>;
+}
+
+-keep class * extends com.google.ads.mediation.customevent.CustomEvent {
+    public <fields>;
+    public <methods>;
+}
+
+# We keep all fields for every generated proto file as the runtime uses
+# reflection over them that ProGuard cannot detect. Without this keep
+# rule, fields may be removed that would cause runtime failures.
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzbbo {
+    <fields>;
+}
+
+# We keep all fields for every generated proto file as the runtime uses
+# reflection over them that ProGuard cannot detect. Without this keep
+# rule, fields may be removed that would cause runtime failures.
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzbbo {
+    <fields>;
+}
+
+# Proguard flags for consumers of the Google Play services SDK
+# https://developers.google.com/android/guides/setup#add_google_play_services_to_your_project
+# Keep SafeParcelable NULL value, needed for reflection by DowngradeableSafeParcel
+-keepclassmembers public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+    public static final *** NULL;
+}
+
+# Needed for Parcelable/SafeParcelable classes & their creators to not get renamed, as they are
+# found via reflection.
+-keep class com.google.android.gms.common.internal.ReflectedParcelable
+
+-keep,allowshrinking class * extends com.google.android.gms.common.internal.ReflectedParcelable
+
+-keepclassmembers class * extends android.os.Parcelable {
+    public static final *** CREATOR;
+}
+
+# Keep the classes/members we need for client functionality.
+-keep @interface  android.support.annotation.Keep
+
+-keep @android.support.annotation.Keep class *
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <fields>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <methods>;
+}
+
+# Keep the names of classes/members we need for client functionality.
+-keep @interface  com.google.android.gms.common.annotation.KeepName
+
+-keep,allowshrinking @com.google.android.gms.common.annotation.KeepName class *
+
+-keepclassmembers,allowshrinking class * {
+    @com.google.android.gms.common.annotation.KeepName
+    <fields>;
+    @com.google.android.gms.common.annotation.KeepName
+    <methods>;
+}
+
+# Keep Dynamite API entry points
+-keep @interface  com.google.android.gms.common.util.DynamiteApi
+
+-keep @com.google.android.gms.common.util.DynamiteApi public class * {
+    public <fields>;
+    public <methods>;
+}
+
+# Copyright (C) 2017 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# Prevent Parcelable objects from being removed or renamed.
+-keep class android.support.v4.media.** extends android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+
+# Copyright (C) 2016 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# keep setters in VectorDrawables so that animations can still work.
+-keepclassmembers class android.support.graphics.drawable.VectorDrawableCompat$* {
+    void set*(***);
+    *** get*();
+}
+
+# Copyright (C) 2016 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# CoordinatorLayout resolves the behaviors of its child components with reflection.
+-keep public class * extends android.support.design.widget.CoordinatorLayout$Behavior {
+    public <init>(android.content.Context,android.util.AttributeSet);
+    public <init>();
+}
+
+# Keep our interfaces so they can be used by other ProGuard rules.
+# See http://sourceforge.net/p/proguard/bugs/466/
+-keep,allowobfuscation @interface  com.facebook.common.internal.DoNotStrip
+
+-keep,allowobfuscation @interface  com.facebook.soloader.DoNotOptimize
+
+# Do not strip any method/class that is annotated with @DoNotStrip
+-keep @com.facebook.common.internal.DoNotStrip class *
+
+-keepclassmembers class * {
+    @com.facebook.common.internal.DoNotStrip
+    <fields>;
+    @com.facebook.common.internal.DoNotStrip
+    <methods>;
+}
+
+# Do not strip any method/class that is annotated with @DoNotOptimize
+-keep @com.facebook.soloader.DoNotOptimize class *
+
+-keepclassmembers class * {
+    @com.facebook.soloader.DoNotOptimize
+    <fields>;
+    @com.facebook.soloader.DoNotOptimize
+    <methods>;
+}
+
+# Keep native methods
+-keepclassmembers class * {
+    native <methods>;
+}
+
+-keep class * extends android.arch.lifecycle.ViewModel {
+    <init>();
+}
+
+-keepclassmembers enum  android.arch.lifecycle.Lifecycle$Event {
+    <fields>;
+}
+
+-keep class * extends android.arch.lifecycle.LifecycleObserver
+
+-keep class * extends android.arch.lifecycle.GeneratedAdapter {
+    <init>(...);
+}
+
+-keepclassmembers class ** {
+    @android.arch.lifecycle.OnLifecycleEvent
+    <fields>;
+    @android.arch.lifecycle.OnLifecycleEvent
+    <methods>;
+}
