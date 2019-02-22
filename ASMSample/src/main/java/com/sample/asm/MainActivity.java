@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
     }
 
     public void startThread() {
-        new CustomThread(new Runnable() {
+        new Thread(new Runnable() {
             @Override
             public void run() {
                 try {
@@ -45,6 +45,22 @@ public class MainActivity extends Activity {
             return "";
         }
         return telManager == null ? "null" : telManager.getDeviceId();
+    }
+
+    static class A {
+        public A(B b) {
+
+        }
+    }
+
+    static class B {
+        public B(int a) {
+
+        }
+    }
+
+    public void mm() {
+        new A(new B(2));
     }
 }
 
